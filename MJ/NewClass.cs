@@ -6,5 +6,11 @@ namespace MJ
 {
     class NewClass
     {
+
+        int emptyMethod ()
+        {
+            return 0;
+        }
     }
 }
+
