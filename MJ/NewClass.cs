@@ -6,5 +6,8 @@ namespace MJ
 {
     class NewClass
     {
+        
+        int number;
     }
+   
 }
